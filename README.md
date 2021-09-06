@@ -1,6 +1,10 @@
 # BLENotify
 The APP user guide
 
+[Android](https://play.google.com/store/apps/details?id=com.dataontabs.blenotify)
+
+[iOS]()
+
 ## When use BLE Notify?
 
 If your project is using iBeacon to send alerts information to mobile devices, no depending of wifi.
@@ -128,3 +132,6 @@ ID;NAME;PLACE_ID
 2;Node Lora 152;2
 3;Node Wifi 153;3
 ```
+
+
+[Android]: https://play.google.com/store/apps/details?id=com.dataontabs.blenotify
